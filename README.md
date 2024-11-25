@@ -1,4 +1,7 @@
 # Financial-Statements-in-Power-BI
+![image](https://github.com/user-attachments/assets/4336fe3e-3101-497f-a923-5383835281a8)
+
+
 This project demonstrates my proficiency in developing financial statement reports, including an Income Statement and Balance Sheet, using Power BI. The project focuses on integrating database management, data modeling, and visualization to create insightful and dynamic financial dashboards.
 
 Key Highlights:
